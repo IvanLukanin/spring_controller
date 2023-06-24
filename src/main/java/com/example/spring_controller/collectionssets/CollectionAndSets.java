@@ -1,13 +1,13 @@
-package com.example.spring_controller;
+package com.example.collectionssets;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringControllerApplication {
+public class CollectionAndSets {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringControllerApplication.class, args);
+        SpringApplication.run(com.example.collectionsandsets.CollectionsSets.class, args);
     }
 
 }
